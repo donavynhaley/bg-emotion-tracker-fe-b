@@ -1,14 +1,18 @@
 # Boys & Girls Club of Conejo Tracker Emotion Tracker
 
 You can find the deployed project [here](https://b.bgexperiencetracker.dev/).
+
 Login Info
 
+Admin
 llama001@maildrop.cc
 Test001Test
 
+YDP Dashboard
 llama002@maildrop.cc
 Test002Test
 
+Club Director
 llama003@maildrop.cc
 Test003Test
 
